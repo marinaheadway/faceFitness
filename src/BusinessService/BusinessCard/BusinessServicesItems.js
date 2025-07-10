@@ -6,7 +6,7 @@ import ExpressiveFace from '../../Assets/expressive-face.jpg';
    export const businessServicesItems = [
  {
     image: InnerHarmony,
-    alt:'Inner Harmony',
+    alt:'Inner harmony',
     title: "Atelier Équilibre mentale",
     subtitle: "1 heure",
     items: [
